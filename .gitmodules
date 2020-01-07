@@ -1,0 +1,6 @@
+[submodule "Assignments/DevoirLab1"]
+	path = Assignments/DevoirLab1
+	url = https://github.com/valentinmagot/DevoirLab1.git
+[submodule "Assignments/DevoirLab3"]
+	path = Assignments/DevoirLab3
+	url = https://github.com/valentinmagot/DevoirLab3.git
