@@ -4,3 +4,6 @@
 [submodule "Assignments/DevoirLab3"]
 	path = Assignments/DevoirLab3
 	url = https://github.com/valentinmagot/DevoirLab3.git
+[submodule "Project/restaurantFinder"]
+	path = Project/restaurantFinder
+	url = https://github.com/valentinmagot/restaurantFinder.git
